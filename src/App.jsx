@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Roshan Lal Dia",
-  title: "Enginnering Student and Technocrat",
+  title: "Enginnering Student & Technocrat",
   email: "roshanlal@diasonus.in",
   gitHub: "roshan-lal-dia",
   instagram: "roshanlal_dia",
   linkedIn: "roshan-lal-dia",
   medium: "",
   twitter: "roshanlal_dia",
-  youTube: "roshanlaldia",
+  youTube: "roshanlal_dia",
 };
 
 const primaryColor = "#4E567E";

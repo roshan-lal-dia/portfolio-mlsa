@@ -23,19 +23,17 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+const description = "“𝙼𝚊𝚢 𝙱𝚛𝚞𝚝𝚎-𝙵𝚘𝚛𝚌𝚎 𝚋𝚎 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞⚡” | Development Team Lead @ Byte-Bash Technologies | Connecting Students to their Glorious Purpose ✨ | MLSA Alpha";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "MS Azure",
+  "Community building",
+  "Technical consulting",
+  "Software Design",
   "Graphic design",
 ];
 
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I like to architect solutions and solving problems rather than always coding, I am a renovation type of guy, not an innovation guy Interested in Web3, but mainly in computer Science rather than software engineering. Organizing a college wide technical community Byte-Bash-Blitz.";
 
 const About = () => {
   return (
