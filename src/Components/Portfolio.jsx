@@ -32,10 +32,9 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "Decentralized Voting System using Blockchain",
-    description:
-      "A decentralized voting system build on the ethereum Blockchain",
+    description: "A decentralized voting system build on the ethereum Blockchain",
     url: "https://github.com/roshan-lal-dia/mini-project-s6",
-  }
+  },
 ];
 
 const Portfolio = () => {
@@ -46,7 +45,12 @@ const Portfolio = () => {
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover" }}
+            style={{
+              height: "90%",
+              width: "100%",
+              objectFit: "cover",
+              animation: "1s ease-out 0s 1 slideInLeft",
+            }}
             alt={imageAltText}
           />
         </div>
