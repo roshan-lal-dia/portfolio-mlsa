@@ -34,7 +34,7 @@ const projectList = [
     title: "Decentralized Voting System using Blockchain",
     description:
       "A decentralized voting system build on the ethereum Blockchain",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://github.com/roshan-lal-dia/mini-project-s6",
   }
 ];
 
